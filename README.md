@@ -152,15 +152,5 @@ React.js Node.js Express.js MongoDB JWT bcrypt
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-![LinkedIn](https://www.linkedin.com/in/rahul-aligeti)
-![Gmail](mailto:aligetirahul24@gmail.com)
-![GitHub](https://github.com/rahulaligeti24)
-![Linktree](https://linktr.ee/aligetirahul24)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>

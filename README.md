@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Aligeti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
@@ -152,5 +149,17 @@ React.js Node.js Express.js MongoDB JWT bcrypt
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+![LinkedIn](https://www.linkedin.com/in/rahul-aligeti)
+![Gmail](mailto:aligetirahul24@gmail.com)
+![GitHub](https://github.com/rahulaligeti24)
+![Linktree](https://linktr.ee/aligetirahul24)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
+
+</div>

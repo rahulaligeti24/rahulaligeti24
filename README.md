@@ -79,13 +79,13 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulaligeti24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahulaligeti24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulaligeti24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulaligeti24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="165" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaligeti24&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=rahulaligeti24&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -96,11 +96,11 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 <div align="center">
 
 <a href="https://github.com/rahulaligeti24/Jarvis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=Jarvis&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="JARVIS Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=Jarvis&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="JARVIS Repo"/>
 </a>
 &nbsp;
 <a href="https://github.com/rahulaligeti24/blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=blog&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="InspireHub Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=blog&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="InspireHub Repo"/>
 </a>
 
 </div>

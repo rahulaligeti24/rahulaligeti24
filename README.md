@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Aligeti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Collaborator+%F0%9F%A4%9D;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -131,7 +131,21 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 ---
 
->
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🏅 Achievement | 📅 Year |
+|---|---|
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | 2025 |
+| Smart Interviews Diamond Certificate – Certified Smart Coder | 2025 |
+| JavaScript Essentials 1 & 2 – Cisco Networking Academy | 2024 |
+| NPTEL Certification in Cloud Computing | 2024 |
+| 5-Star Rating in Problem Solving – HackerRank | 2024 |
+| Semifinalist – CodeNox 2.0 Hackathon, VNRVJIET | 2024 |
+| National Means-cum-Merit Scholarship (NMMS) – Govt. of India | 2018 |
+
+</div>
 
 ---
 

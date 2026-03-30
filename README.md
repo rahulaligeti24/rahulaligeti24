@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Aligeti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+%F0%9F%A7%A9;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -128,9 +128,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 - 📱 Responsive UI built with React.js
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `bcrypt`
-
----
-
 
 ---
 

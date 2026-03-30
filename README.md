@@ -37,8 +37,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 - 🧩 Love solving **Data Structures & Algorithms** problems
 - 🤖 Enthusiastic about **Artificial Intelligence** and its real-world applications
 - 🤝 Open to collaborating on **open source** and **real-world projects**
-- 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 Reach me at **aligetirahul24@gmail.com**
+
 
 ---
 

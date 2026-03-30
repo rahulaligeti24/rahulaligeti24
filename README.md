@@ -141,15 +141,4 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 ## 🤝 Let's Connect
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aligeti)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aligetirahul24@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulaligeti24)
-[![Linktree](https://img.shields.io/badge/All_Links-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aligetirahul24)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
-
-</div>

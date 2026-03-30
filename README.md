@@ -1,31 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a2e&height=180&section=header&text=Rahul%20Aligeti&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=68&descSize=16&animation=fadeIn"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Aligeti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&pause=1200&color=4A90D9&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+%F0%9F%A7%A9;AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+%26+Smart+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+%F0%9F%A7%A9;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aligeti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aligetirahul24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahulaligeti24)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/aligetirahul24)
+---
 
-<img src="https://komarev.com/ghpvc/?username=rahulaligeti24&style=flat-square&color=4A90D9&label=Profile+Views" alt="profile views"/>
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aligeti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aligetirahul24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulaligeti24)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aligetirahul24)
+
+<img src="https://komarev.com/ghpvc/?username=rahulaligeti24&style=flat-square&color=38BDF8&label=Profile+Views" alt="profile views"/>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
 <table>
 <tr>
 <td width="55%">
-
-## 👨‍💻 About Me
 
 I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.Tech in Information Technology** at VNRVJIET (CGPA: **9.29/10**).
 
@@ -160,13 +162,13 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aligeti)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aligetirahul24@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahulaligeti24)
-[![Linktree](https://img.shields.io/badge/All_Links-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/aligetirahul24)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aligeti)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aligetirahul24@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulaligeti24)
+[![Linktree](https://img.shields.io/badge/All_Links-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aligetirahul24)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0a0a0a&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=4A90D9&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
 
 </div>

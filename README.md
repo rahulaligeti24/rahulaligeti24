@@ -1,7 +1,5 @@
 div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rahul%20Aligeti&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,35:1c2541,70:3a506b,100:5bc0be&height=280&section=header&text=Rahul%20Aligeti&fontSize=58&fontColor=f8fafc&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Builder&descAlignY=60&descSize=19" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps;Solving+DSA+problems;Exploring+AI+for+real-world+use)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=5BC0BE&center=true&vCenter=true&width=760&height=60&lines=Crafting+clean+full-stack+experiences;Building+MERN+and+AI-powered+products;Solving+problems+with+code+and+curiosity)](https://git.io/typing-svg)

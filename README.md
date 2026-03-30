@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Aligeti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,30:0d1b3e,60:0a2a4a,100:0d3b6e&height=220&section=header&text=Rahul%20Aligeti&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=17&animation=scaleIn&stroke=38BDF8&strokeWidth=2"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+%F0%9F%A7%A9;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=%3E+Building+scalable+MERN+apps+%F0%9F%9A%80;%3E+Solving+DSA+problems+daily+%F0%9F%A7%A9;%3E+Exploring+AI+%26+RAG+systems+%F0%9F%A4%96;%3E+Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
+
+![](https://img.shields.io/badge/MERN_Stack-0d1b2a?style=flat-square&logo=mongodb&logoColor=38BDF8&labelColor=0d1b2a&color=0d1b2a)
+![](https://img.shields.io/badge/CGPA_9.29%2F10-0d1b2a?style=flat-square&logo=academia&logoColor=34D399&labelColor=0d1b2a&color=0d1b2a)
+![](https://img.shields.io/badge/AI_Enthusiast-0d1b2a?style=flat-square&logo=openai&logoColor=818CF8&labelColor=0d1b2a&color=0d1b2a)
 
 ---
 

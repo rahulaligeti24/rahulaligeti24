@@ -8,20 +8,9 @@ div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=rahulaligeti24&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aligeti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aligetirahul24@gmail.com)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-
 </div>
 
 
-
-
-
-GPT-5.4
-
-Mediu
----
 
 ### 🌐 Connect With Me
 

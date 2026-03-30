@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulaligeti24&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
+
 
 <br/>
 

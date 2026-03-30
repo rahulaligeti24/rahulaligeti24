@@ -25,9 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+
 
 I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.Tech in Information Technology** at VNRVJIET (CGPA: **9.29/10**).
 
@@ -38,10 +36,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
 - 📫 Reach me at **aligetirahul24@gmail.com**
 
-</td>
 
-</tr>
-</table>
 
 ---
 
@@ -101,7 +96,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 <div align="center">
 <a href="https://github.com/rahulaligeti24/Jarvis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=Jarvis&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="JARVIS Repo"/>
+
 </a>
 </div>
 
@@ -127,7 +122,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 <div align="center">
 <a href="https://github.com/rahulaligeti24/blog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=blog&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="InspireHub Repo"/>
+
 </a>
 </div>
 

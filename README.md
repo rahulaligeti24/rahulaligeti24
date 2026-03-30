@@ -64,16 +64,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 <br/>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=rahulaligeti24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulaligeti24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Top Languages"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -149,16 +139,6 @@ React.js Node.js Express.js MongoDB JWT bcrypt
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-![LinkedIn](https://www.linkedin.com/in/rahul-aligeti)
-![Gmail](mailto:aligetirahul24@gmail.com)
-![GitHub](https://github.com/rahulaligeti24)
-![Linktree](https://linktr.ee/aligetirahul24)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
 

@@ -95,11 +95,11 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 <div align="center">
 
 <a href="https://github.com/rahulaligeti24/Jarvis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=Jarvis&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="JARVIS Repo"/>
+ 
 </a>
 &nbsp;
 <a href="https://github.com/rahulaligeti24/blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulaligeti24&repo=blog&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="InspireHub Repo"/>
+ 
 </a>
 
 </div>

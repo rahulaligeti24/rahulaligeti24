@@ -4,12 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=5BC0BE&center=true&vCenter=true&width=760&height=55&lines=Crafting+clean+full-stack+experiences;Building+MERN+and+AI-powered+products;Solving+problems+with+code+and+curiosity)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=5BC0BE&center=true&vCenter=true&width=760&height=55&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Crafting+Meaningful+Web+Experiences+%F0%9F%8C%90;DSA+Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 <br/>
-
-
-
 <br/>
 
 ---
@@ -65,16 +61,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 <br/>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=rahulaligeti24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulaligeti24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+
 
 <br/>
 
@@ -136,8 +123,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 </div>
 
----
 
-## 🤝 Let's Connect
+
 
 

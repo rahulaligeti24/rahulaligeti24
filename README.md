@@ -131,21 +131,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, pursuing **B.
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🏅 Achievement | 📅 Year |
-|---|---|
-| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | 2025 |
-| Smart Interviews Diamond Certificate – Certified Smart Coder | 2025 |
-| JavaScript Essentials 1 & 2 – Cisco Networking Academy | 2024 |
-| NPTEL Certification in Cloud Computing | 2024 |
-| 5-Star Rating in Problem Solving – HackerRank | 2024 |
-| Semifinalist – CodeNox 2.0 Hackathon, VNRVJIET | 2024 |
-| National Means-cum-Merit Scholarship (NMMS) – Govt. of India | 2018 |
-
-</div>
+>
 
 ---
 
